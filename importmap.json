@@ -1,0 +1,8 @@
+{
+    "imports": {
+      "@myorg/root-config": "https://example.com/demo-root-config.js",
+      "react": "https://cdn.jsdelivr.net/npm/react@18.2.0/umd/react.production.min.js",
+      "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@18.2.0/umd/react-dom.production.min.js",
+      "@myorg/landingpage": "https://example.com/myorg-landing-page.js"
+    }
+  }
